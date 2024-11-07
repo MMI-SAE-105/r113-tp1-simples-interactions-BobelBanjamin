@@ -1,6 +1,6 @@
-- nom :
-- prénom :
-- URL Netlify :
+- nom : Bobel
+- prénom : Banjamin
+- URL Netlify : tp1-bobelbanjamin.netlify.app
 
 # Travail
 
