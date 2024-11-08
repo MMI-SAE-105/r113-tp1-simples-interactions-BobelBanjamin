@@ -4,3 +4,4 @@
 
 Amettreenrouge = document.querySelector("#a-mettre-en-rouge")
 
+Amettreenrouge.style.color = 'red'
